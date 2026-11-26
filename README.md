@@ -206,6 +206,4 @@ entorno controlado.
 
 ---
 
-**Actividad:** Checkpoint - Mi primer laboratorio seguro de ciberseguridad.
-
 **Autor:** v3mm4
